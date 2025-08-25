@@ -1,0 +1,3 @@
+gradio>=4.44
+sympy>=1.13
+numpy>=1.26
